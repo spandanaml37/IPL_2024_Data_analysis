@@ -14,3 +14,5 @@ Data-Driven Insights: Derived actionable insights from the IPL 2024 dataset, fac
 
 ## Dashboard
 
+![Screenshot 2024-10-09 125057](https://github.com/user-attachments/assets/b1846ef6-cce8-411b-8ec9-6714b6b1456d)
+
